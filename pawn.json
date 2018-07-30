@@ -6,13 +6,13 @@
 	"dependencies": [
 		"sampctl/samp-stdlib",
 		"Southclaws/samp-logger:1.2.6",
-		"ScavengeSurvive/item:1.10.5",
+		"Dystopian-Roleplay/item:1.10.5",
 		"BigETI/pawn-map",
 		"Southclaws/pawn-requests:0.8.2"
 	],
 	"dev_dependencies": [
 		"pawn-lang/YSI-Includes",
-		"ScavengeSurvive/test-boilerplate-items"
+		"Dystopian-Roleplay/test-boilerplate-items"
 	],
 	"runtime": {
 		"version": "0.3.7",
